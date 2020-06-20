@@ -10,7 +10,7 @@ public class FirstClass {
     
 
    
-     System.err.println("conflict cikaralim");
+     System.out.println("2. kez kavga cikaralim");
 
 	System.out.println("first commit from remote repository");	
 
